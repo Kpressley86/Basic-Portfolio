@@ -23,9 +23,27 @@ h2 {
 
 button {
     float:right; 
+    text-decoration-color: grey
     
 }
 h3 {
-    font-color: teal;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-decoration-color: #4aaaa5;
+    background: #ffffff;
+    margin-left: 15%;
+    margin-right: 15%;
 
+}
+
+image {
+    float:left;
+
+}
+
+h4 {
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #ffffff;
+    text-decoration-color: #cccccc
 }
