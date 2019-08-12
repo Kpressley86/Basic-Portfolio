@@ -1,14 +1,31 @@
-h1 {background-color: white;
+body {
+    background-image: url("../images/prism.png");
+    
 }
 
-h2 {
-    background-color: teal; font-color: white;
+header {
+    padding-left: 15%;
+    padding-right:15%;
+    margin-bottom: 0px;
+    color: #ffffff;
+    background: #ffffff;
+  }
+
+h1 {
+     background-color: white;
 }
 
-body
-   { background-image: url("../images/prism.png");
+h2 { 
+    background: teal; 
+    padding: 25px;
+    width: 150px;
 }
 
+button {
+    float:right; 
+    
+}
+h3 {
+    font-color: teal;
 
-button {float:right; font-color: grey; background-color: white;
 }
