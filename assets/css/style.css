@@ -12,7 +12,7 @@ header {
   }
 
 h1 {
-     background-color: white;
+     
 }
 
 h2 { 
@@ -23,12 +23,10 @@ h2 {
 
 button {
     float:right; 
-    text-decoration-color: grey
+    text-decoration-color: #ffffff
     
 }
 h3 {
-    padding-left: 15%;
-    padding-right: 15%;
     text-decoration-color: #4aaaa5;
     background: #ffffff;
     margin-left: 15%;
@@ -38,12 +36,4 @@ h3 {
 
 image {
     float:left;
-
-}
-
-h4 {
-    margin-left: 15%;
-    margin-right: 15%;
-    background: #ffffff;
-    text-decoration-color: #cccccc
 }
