@@ -1,5 +1,14 @@
-h1 {
-    background-color: teal
+h1 {background-color: white;
 }
+
+h2 {
+    background-color: teal; font-color: white;
+}
+
 body
-   { background-image: url("../images/prism.png");}
+   { background-image: url("../images/prism.png");
+}
+
+
+button {float:right; font-color: grey; background-color: white;
+}
