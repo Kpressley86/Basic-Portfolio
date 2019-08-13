@@ -11,6 +11,14 @@ header {
     background: #ffffff;
   }
 
+#header2 {
+    padding-left: 25%;
+    padding-right:25%;
+    margin-bottom: 0px;
+    color: #ffffff;
+    background: #ffffff;
+  }
+
 h1 {
      
 }
@@ -44,13 +52,22 @@ a {
 }
 
 h3 {
-    text-decoration-color: #4aaaa5;
+    color: #777777;
     background: #ffffff;
     margin-left: 15%;
     margin-right: 15%;
-    border: 1px solid #4aaaa5;
+    border: 1px solid #dddddd;
 }
 
+b {font-size: 25px}
 image {
     float:left;
+}
+
+h4 {
+    margin-left: 25%;
+    margin-right: 25%; 
+    background: #ffffff;
+    color: #777777;
+    border: 1px solid #dddddd
 }
