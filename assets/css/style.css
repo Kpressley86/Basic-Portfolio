@@ -21,10 +21,10 @@ h2 {
     width: 150px;
 }
 
-button {
+a {
     float:right; 
-    text-decoration-color: #ffffff;
-    
+    background-blend-mode: color #ffffff;
+    text-decoration-color: #cccccc;
 }
 
 h3 {
@@ -32,7 +32,7 @@ h3 {
     background: #ffffff;
     margin-left: 15%;
     margin-right: 15%;
-
+    border: 1px solid #4aaaa5;
 }
 
 image {
