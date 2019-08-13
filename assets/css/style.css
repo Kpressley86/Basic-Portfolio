@@ -95,3 +95,19 @@ footer {
     align-items: center;
     justify-content: center;
 }
+#submit {
+    color: #ffffff;
+    background: #4aaaa5;
+    border: 1px solid #dddddd;
+}
+
+input {
+    color: #777777;
+    background: #ffffff
+}
+
+textarea {
+    Hight: 600px;
+    width: 600px;
+    
+}
