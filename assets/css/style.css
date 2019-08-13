@@ -16,10 +16,26 @@ h1 {
 }
 
 h2 { 
-    background: teal; 
+    background: #4aaaa5; 
     padding: 25px;
     width: 150px;
 }
+
+a:link {
+    color: #cccccc;
+  }
+  
+  a:visited {
+    color: #cccccc;
+  }
+  
+  a:hover {
+    color: #cccccc;
+  }
+  
+  a:active {
+    color: #4aaaa5;
+  }
 
 a {
     float:right; 
