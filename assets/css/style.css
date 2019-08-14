@@ -82,6 +82,10 @@ b {
 image {
     float:left;
 }
+.portfolio {
+    width:45%;
+    
+}
 
 h4 {
     padding-top: 2%;
