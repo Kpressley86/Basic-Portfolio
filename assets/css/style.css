@@ -90,12 +90,14 @@ image {
 
 .text-block {
     position: relative;
-    bottom: 20px;
+    bottom: 55px;
     right: 20px;
     background-color: #4aaaa5;
     color: #cccccc;
-    padding-left: 1px;
+    padding-left: 70px;
     padding-right: 1px;
+    margin-left: 20px;
+    margin-right: 253.5px;
   }
 
 h4 {
