@@ -5,24 +5,13 @@ body {
 }
 
 header {
-
-    width: 100%;
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 1px solid #cccccc;
     padding-left: 15%;
     padding-right:15%;
     color: #ffffff;
     background: #ffffff;
-  }
-
-.header2 {
-    width: 100%;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    border-bottom: 1px solid #cccccc;
-    padding-left: 25%;
-    padding-right:25%;
-    color: #ffffff;
-    background: #ffffff;
+    margin-bottom: 35px;
   }
 
 h1 {
@@ -47,6 +36,7 @@ h2 {
     padding: 25px;
     width: 175px;
 }
+
 #index { 
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #777777;
@@ -54,8 +44,9 @@ h2 {
   margin-left: 15%;
   margin-right: 15%;
   border: 1px solid #dddddd;
-
+  max-width: 960px;
 }
+
 #portfolio {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #777777;
@@ -63,6 +54,7 @@ h2 {
   margin-left: 15%;
   margin-right: 15%;
   border: 1px solid #dddddd;
+  max-width: 960px;
 }
 
 #contact {
@@ -72,6 +64,7 @@ h2 {
   margin-left: 15%;
   margin-right: 15%;
   border: 1px solid #dddddd;
+  max-width: 960px;
 }
 
 a:link {
@@ -135,7 +128,7 @@ section {
 }
 
 footer {
-    width: 100%;
+    margin-top: 35px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-top: 8px solid #4aaaa5;
     background: #666666;
@@ -164,8 +157,3 @@ textarea {
     width: 200px;
     
 }
-
-class
-container----- container-fluid
-row
-col-sm-md-lg-xl-1-12
