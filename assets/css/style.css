@@ -5,6 +5,7 @@ body {
 }
 
 header {
+    display: block
     font-family: 'Georgia', Times, Times New Roman, serif;
     border-bottom: 1px solid #cccccc;
     padding-left: 15%;
@@ -89,7 +90,7 @@ a:link {
 
 a {   
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    padding-top: 4%;
+    padding-bottom: 0%;
     float:right; 
     background-blend-mode: color #ffffff;
     text-decoration-color: #cccccc;
@@ -98,6 +99,8 @@ a {
 
 
 image {
+  padding-right: 35px;
+    padding-left: 35px;
     float:left;
     max-width: 10%;
     max-height: 10%;
@@ -109,6 +112,7 @@ image {
   }
 
 .text-block {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     position: relative;
     bottom: 55px;
     right: 20px;
@@ -148,12 +152,11 @@ footer {
 input {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
-    background: #ffffff
+    background: #ffffff;
 }
 
 textarea {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     Hight: 600px;
-    width: 200px;
-    
+    width: 200px; 
 }
