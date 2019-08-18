@@ -50,6 +50,18 @@ h2 {
   padding-left: 35px;
 }
 
+#contact {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  color: #777777;
+  background: #ffffff;
+  margin-left: 15%;
+  margin-right: 15%;
+  border: 1px solid #dddddd;
+  max-width: 960px;
+  padding-left: 35px;
+  padding-bottom: 35px;
+}
+
 #portfolio {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: #777777;
@@ -60,19 +72,20 @@ h2 {
   max-width: 960px;
   padding-left: 35px;
   padding-right: 35px;
+  height: 1100px;
 }
 
-#contact {
-  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-  color: #777777;
-  background: #ffffff;
-  margin-left: 15%;
-  margin-right: 15%;
-  border: 1px solid #dddddd;
-  max-width: 960px;
-  padding-left: 35px;
-}
+image {
+  height: 250px;
+  width: 250px;
+ }
 
+.portfolio {
+    float: left;
+    margin: 4%;
+    width: 40%;
+  }
+ 
 a:link {
     color: #777777;
     text-decoration: none;
@@ -101,16 +114,6 @@ a {
     text-decoration-color: #cccccc;
     font-size: 20px;
 }
-
-
-image {
- 
-}
-.portfolio {
-
-    margin-left: 0px;
-    position: relative;
-  }
 
 .text-block {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -161,14 +164,15 @@ textarea {
     height:200px;
     width: 600px; 
 }
-.image-float {
+#image-float {
+  background-color: #ffffff;
   float: left;
-  margin: 0 1.5%;
-  width: 63%;
+  margin: 0%;
+  width: 0%;
 }
 
 .text-float {
   float: right;
-  margin: 0 1.5%;
-  width: 30%;
+  margin-right: 35px;
+  width: 60%;
 }
