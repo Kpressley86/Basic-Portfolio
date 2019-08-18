@@ -118,14 +118,14 @@ a {
 .text-block {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     position: relative;
-    bottom: 55px;
+    bottom: 75px;
     right: 20px;
     background-color: #4aaaa5;
     color: #cccccc;
-    padding-left: 70px;
+    padding-left: 45%;
     padding-right: 1px;
     margin-left: 20px;
-    margin-right: 50%;
+    margin-right: -9.3%;
   }
 
 section {
